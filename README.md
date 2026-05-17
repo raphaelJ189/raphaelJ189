@@ -1,24 +1,19 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Raphael%20Mwaka&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Computer%20Science%20Student%20%7C%20Data%20Analyst%20%7C%20Frontend%20Developer&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Raphael%20Mwaka&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20•%20Building%20Secure%20and%20Scalable%20Systems&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 </div>
-
-<br/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&width=620&lines=Secure+by+design.+Clean+by+discipline.+Built+to+last.;Backend+%7C+Data+Science+%7C+Frontend;IoT+%2B+Machine+Learning+Integration)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7C73FF&center=true&vCenter=true&width=700&lines=Secure+by+design.+Clean+by+discipline.;Building+scalable+backend+systems.;Software+Engineering+%7C+System+Design;Intelligent+systems+and+data-driven+applications)](https://git.io/typing-svg)
 
 </div>
 
-<br/>
-
 ---
+## About Me
 
-## Who I Am
+Computer Science student at the University of Dodoma (UDOM) with a strong interest in backend engineering, scalable system architecture, and modern software development.
 
-Computer Scientist, currently studying at the University of Dodoma(UDOM).
-
----
+Passionate about building secure, maintainable, and efficient applications while continuously expanding knowledge in backend technologies, data analytics, intelligent systems, and cloud-oriented solutions.
 
 ## Tech Stack
 
@@ -105,10 +100,41 @@ Computer Scientist, currently studying at the University of Dodoma(UDOM).
 
 ---
 
+# Connect With Me
+
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rmwaka71@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raphaelJ189)
+<a href="mailto:rmwaka71@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="42" />
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/raphaelJ189">
+  <img src="https://skillicons.dev/icons?i=github" height="42" />
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://wa.me/255749097587">
+  <img src="https://cdn.simpleicons.org/whatsapp/25D366" height="42" />
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/r.jmwaka">
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" height="42" />
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="tel:+255738741827">
+  <img src="https://cdn-icons-png.flaticon.com/512/724/724664.png" height="42" />
+</a>
+
+<br/><br/>
+
+<a href="https://maps.google.com/?q=Dodoma,Tanzania">
+  <img src="https://cdn-icons-png.flaticon.com/512/684/684908.png" height="22" />
+</a>
+&nbsp;
+<b>Dodoma, Tanzania</b>
 
 </div>
 
