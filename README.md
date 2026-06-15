@@ -1,14 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Raphael%20Mwaka&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20•%20Building%20Secure%20and%20Scalable%20Systems&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&font=Inter&text=Raphael%20Mwaka&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20@%20UDOM%20&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 </div>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7C73FF&center=true&vCenter=true&width=700&lines=Secure+by+design.+Clean+by+discipline.;Building+scalable+backend+systems.;Software+Engineering+%7C+System+Design;Intelligent+systems+and+data-driven+applications)](https://git.io/typing-svg)
-
-</div>
-
----
 ## About Me
 
 Computer Science student at the University of Dodoma (UDOM) with a strong interest in backend engineering, scalable system architecture, and modern software development.
